@@ -1,4 +1,4 @@
-package com.example.upao.upaoselfie.Model;
+package com.example.upao.upaoselfie.model;
 import java.util.Date;
 /**
  * Created by Upao on 23/08/2017.
