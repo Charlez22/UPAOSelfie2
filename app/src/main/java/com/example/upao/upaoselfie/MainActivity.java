@@ -34,7 +34,7 @@ private Alumno alumno ;
         });
     }
 
-    public void enviarDatos(){
+    public void enviarDatos(View view){
         alumno = new Alumno();
         EditText edtNombre=(EditText)findViewById(R.id.nombre);
         String nombre= edtNombre.getText().toString();
